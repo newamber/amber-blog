@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🪴 藍色大門 on</title><link>https://newamber.github.io/</link><description>Recent content in 🪴 藍色大門 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://newamber.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>公园</title><link>https://newamber.github.io/poem/%E5%85%AC%E5%9B%AD/</link><pubDate>Sun, 14 Jun 2020 15:07:32 +0800</pubDate><guid>https://newamber.github.io/poem/%E5%85%AC%E5%9B%AD/</guid><description>老人
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Poems on</title><link>https://newamber.github.io/poem/</link><description>Recent content in Poems on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2020 15:07:32 +0800</lastBuildDate><atom:link href="https://newamber.github.io/poem/index.xml" rel="self" type="application/rss+xml"/><item><title>公园</title><link>https://newamber.github.io/poem/%E5%85%AC%E5%9B%AD/</link><pubDate>Sun, 14 Jun 2020 15:07:32 +0800</pubDate><guid>https://newamber.github.io/poem/%E5%85%AC%E5%9B%AD/</guid><description>老人
 独自漫步
 在空无一人的公园里
 缓慢地走着
@@ -47,7 +47,7 @@
 去违抗谶语
 让我回想叶掩映的夏天
 有赪红晚霞
-有怀抱世界的云</description></item><item><title>C语言之内存对齐</title><link>https://newamber.github.io/tech/C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90/</link><pubDate>Sun, 07 Jun 2020 11:25:14 +0800</pubDate><guid>https://newamber.github.io/tech/C%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90/</guid><description>内存对齐 现代计算机中内存空间都是按照 byte 划分的，从理论上讲似乎对任何类型的变量的访问可以从任何地址开始，但实际情况是在访问特定变量的时候经常在特定的内存地址访问，这就需要各类型数据按照一定的规则在空间上排列，而不是顺序的一个接一个的排放，这就是对齐。 对齐的作用和原因：各个硬件平台对存储空间的处理上有很大的不同。一些平台对某些特定类型的数据只能从某些特定地址开始存取。其他平台可能没有这种情况，但是最常见的是如果不按照适合其平台的要求对数据存放进行对齐，会在存取效率上带来损失。比如有些平台每次读都是从偶地址开始，如果一个 int 型（假设为32位）如果存放在偶地址开始的地方，那么一个读周期就可以读出，而如果存放在奇地址开始的地方，就可能会需要 2 个读周期，并对两次读出的结果的高低字节进行拼凑才能得到该 int 数据。显然在读取效率上下降很多，这也是空间和时间的博弈。 “内存对齐”应该是编译器的“管辖范围”。编译器为程序中的每个“数据单元”安排在适当的位置上。 但是C语言的一个特点就是太灵活，太强大，它允许你干预“内存对齐” 对齐规则 每个特定平台上的编译器都有自己默认的“对齐系数”，我们可以通过预处理指令#pragma pack(n), n=1, 2, 4, 8, 16.</description></item><item><title>日子</title><link>https://newamber.github.io/poem/%E6%97%A5%E5%AD%90/</link><pubDate>Sun, 07 Jun 2020 11:05:50 +0800</pubDate><guid>https://newamber.github.io/poem/%E6%97%A5%E5%AD%90/</guid><description>日子慢慢地滑过
+有怀抱世界的云</description></item><item><title>日子</title><link>https://newamber.github.io/poem/%E6%97%A5%E5%AD%90/</link><pubDate>Sun, 07 Jun 2020 11:05:50 +0800</pubDate><guid>https://newamber.github.io/poem/%E6%97%A5%E5%AD%90/</guid><description>日子慢慢地滑过
 没有风的时候
 叶子也随眼光跳动
 伸手掏取香烟 却
@@ -163,10 +163,4 @@
 淋出一个人形空白
 祁寒入骨三分
 魂逐流云
-雨幕无声，春风已倦</description></item><item><title>2017的日子</title><link>https://newamber.github.io/life/2017%E7%9A%84%E6%97%A5%E5%AD%90/</link><pubDate>Sat, 28 Jan 2017 23:59:42 +0000</pubDate><guid>https://newamber.github.io/life/2017%E7%9A%84%E6%97%A5%E5%AD%90/</guid><description>2017来了，年味不浓。
-春晚看了四分之一就逃掉，爸妈躺在沙发里，忙着和荧光屏另一端的亲人发送祝福。平时安静的后山因为前来祭拜菩萨的人们显得热闹非凡，持续不断的鞭炮声一度打断我和女朋友的语音对话。回家很多天，想到自己的计划尚未开工，我感到沮丧。又开始盘算着以后的事情，我清醒地知道，今年至关重要。春假一过，就是大三下了，实际上，大学的课程早已修完。我的大学生涯在这种意义上来说，已经结束了。心中不免有点惆怅，回顾这飞似的几年，我又成长了多少呢。
-今年的选择在于：是考研，还是工作？大人总是很轻松，因为他们不是我这个当事人，爸妈说：“两种事情都要准备。” 学校今年十月份会有一场校招，我打算去试试，如果能进譬如BAT这样的名企或者待遇好的企业，那我就放弃考研，但是这也意味着，我的考研效果不会太好。人的精力总是有限的，想得过于美好，事实就往往不会如愿。有很多事情细想都觉得很麻烦。但是我还决定，既要做好找工作的准备，又要准备考研。由于学院的要求，我得在今年二至八月份去公司实习，而我去的地方恰恰下班很晚，还有固定加班的时候，这就又增加了我平时看书的难度，因为时间太少。但是我也做好提前一个月抽身的准备，总不能到了八月底还没开始刷题吧。
-其实关于考研和工作，我觉得没有谁好谁不好，我知道研究生只是一个文凭，学技术还是得靠自己，而且，在学校和公司学东西的速度肯定不是一个级别的。可是有的职位硬是要求研究生以上，这就说明了问题。而且，这个两手准备实际上很悬，因为如果到时两头都不讨好，我都不愿意看见那时自己的下场。
-但是，这么久了，我有很多年都没有过燃起斗志去做一件事。我想，至今为止的人生，到最拼的时候了，人总要学会去面对，不逃避，不埋怨。我只想全力以赴一次，去享受这个曲折的过程，给我爱的人一个交代。
-给以前矫情的自己说声再见。
-2017年，我要实打实地走完。</description></item></channel></rss>
+雨幕无声，春风已倦</description></item></channel></rss>
