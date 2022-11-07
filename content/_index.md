@@ -1,27 +1,27 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 藍色大門
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# 关于本站
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+往前走，往前看，我希望我能把自己的人生过得精彩无比，而此处即是见证。
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+会在这里记录工作和学习
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+写了一些诗，个人比较喜欢的作品：[[poem/远视练习]]。
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+也会写一些感悟随笔。
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+# 关于我
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+于 2018年8月毕业，然后开始参加工作，目前从事GPU虚拟化相关工作，曾经做过RDMA相关的工作，对OFED、rdma-core软件栈比较熟悉。
+ 
+更早的时候（2017）接触过Android、Kotlin，用它们写过一两个简单的App。
 
+现状：
+* 和认识了十几年的同学结婚扯证有两年，还没办婚礼，心里有些愧疚，筹划婚礼中。
+* 曾经喜欢玩游戏，现在没有时间了。最喜欢的游戏是消逝的光芒、无人深空。
+* 喜欢看网飞的剧，特别喜欢怪奇物语。
+* 养着两只蓝白小可爱祖宗。
+* 筹备买车。
